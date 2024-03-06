@@ -83,10 +83,10 @@ button:hover {
 /* ************ */
 /* BACKGROUNDS */
 .bg-hero-img {
-  width: 50rem;
+  width: 66rem;
   height: 66rem;
   top: -10rem;
-  right: -10rem;
+  right: -5rem;
   border-radius: 50%;
   background: linear-gradient(to bottom, rgba(0, 254, 220, 0.559), rgba(67, 42, 10, 0.25));
   /* background-color: red; */
