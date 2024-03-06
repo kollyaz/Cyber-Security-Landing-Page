@@ -346,7 +346,7 @@
 }
 
 /* BELOW 250PX */
-@media(max-width: 16em) {
+@media(max-width: 17em) {
   html {
     font-size: 30%;
   }
