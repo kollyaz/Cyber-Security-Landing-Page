@@ -216,6 +216,8 @@
 
   .nav-open .icon-mobile-nav[name="close-outline"] {
     display: block;
+    width: 3.2rem;
+    height: 3.2rem;
   }
 
   .nav-open .icon-mobile-nav[name="menu-outline"] {
